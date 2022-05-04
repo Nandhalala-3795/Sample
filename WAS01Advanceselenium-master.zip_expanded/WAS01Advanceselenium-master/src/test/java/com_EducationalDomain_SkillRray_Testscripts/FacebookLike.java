@@ -36,7 +36,6 @@ public class FacebookLike extends BaseClass{
 		//driverUtilies.elementClick(driver,fb.getLoginbtn());
 		driverUtilies.verify(driver.getTitle(),fileutilies.getpropertyData("facebooktitle"));
 		
-		
 	}
 
 }
